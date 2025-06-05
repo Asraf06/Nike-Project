@@ -186,3 +186,24 @@ header {
 .product-info {
     margin-left: 20px;
 }
+
+footer {
+    width: 100%;
+    position: relative;
+    bottom: -15px;
+    height: 40px;
+    background-color: #e7e7e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    color: #000;
+    font-weight: 500;
+}
+
+.copyright a{
+    color: #000;
+    text-decoration: none;
+}
